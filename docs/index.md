@@ -8,7 +8,7 @@
 
 ##  Welcome to Wisc Guide
 
-This is a collection of notes and resources for some courses at UW-Madison.
+This is a collection of notes and resources for some courses at [UW-Madison](https://www.wisc.edu/).
 
 !!! warning "Disclaimer"
     This guide is not updated, endorsed, or approved by UW-Madison. Content may be outdated or incorrect. 
