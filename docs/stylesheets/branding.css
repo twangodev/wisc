@@ -6,3 +6,7 @@
 .md-header__button.md-logo img, .md-header__button.md-logo svg {
     height: 2.4rem;
 }
+
+.md-header {
+    background-color: #C5050C;
+}

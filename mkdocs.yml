@@ -56,7 +56,7 @@ plugins:
   - search
   - glightbox
   - offline
-  - social
+#  - social
   - charts
   - git-committers:
       repository: twangodev/cca

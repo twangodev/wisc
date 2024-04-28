@@ -11,7 +11,7 @@
 This is a collection of notes and resources for some courses at UW-Madison.
 
 !!! warning "Disclaimer"
-    This guide is not updated, endorsed, or approved by the UW-Madison. Content may be outdated or incorrect. 
+    This guide is not updated, endorsed, or approved by UW-Madison. Content may be outdated or incorrect. 
     Please refer to the respective departments or instructional staff for the most up-to-date information.
 
     This is not meant to replace taking notes and creating your own resources, but rather to supplement it.
@@ -24,7 +24,3 @@ View the standalone page [here](https://wisc.twango.dev/print_page.html).
 If you notice that any information is incorrect, missing, or would like content removed, open an issue.
 
 If you would like to make changes or add your content to the guide, fork the repository and open a pull request.
-
-```angular2html
-git clone
-```
