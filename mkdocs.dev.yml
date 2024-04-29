@@ -12,7 +12,7 @@ docs_dir: docs
 
 theme:
   name: material
-  logo: assets/wisc.png
+  logo: assets/wisc.svg
   favicon: assets/favicon.ico
   custom_dir: overrides
   features:

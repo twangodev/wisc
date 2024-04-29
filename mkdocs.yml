@@ -11,7 +11,7 @@ repo_url: https://github.com/twangodev/wisc
 theme:
   language: en
   name: material
-  logo: assets/wisc.png
+  logo: assets/wisc.svg
   favicon: assets/favicon.ico
   custom_dir: overrides
   features:
