@@ -57,8 +57,9 @@ plugins:
   - glightbox
   - offline
   - social:
+      cards_layout: default/variant
       card_layout-options:
-        font_family: "Red Hat Display"
+        font_family: Red Hat Display
   - charts
   - git-committers:
       repository: twangodev/cca
