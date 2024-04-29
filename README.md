@@ -1,4 +1,4 @@
-# cca
+# wisc
 
 ![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/twangodev/wisc/mkdocs)
 ![GitHub repo size](https://img.shields.io/github/repo-size/twangodev/wisc)
