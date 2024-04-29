@@ -12,7 +12,7 @@ theme:
   language: en
   name: material
   logo: assets/wisc.svg
-  favicon: assets/favicon.ico
+  favicon: favicon.ico
   custom_dir: overrides
   features:
     - search.suggest
