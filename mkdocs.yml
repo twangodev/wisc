@@ -57,7 +57,7 @@ plugins:
   - glightbox
   - offline
   - social:
-      card_layout_options:
+      cards_layout_options:
         font_family: Red Hat Display
   - charts
   - git-committers:
