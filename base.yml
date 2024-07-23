@@ -90,6 +90,8 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
+plugins:
+  - awesome-pages
 
 extra_javascript:
   - javascripts/mathjax.js

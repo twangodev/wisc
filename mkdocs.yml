@@ -5,6 +5,7 @@ INHERIT: base.yml
 plugins:
   - search
   - glightbox
+  - awesome-pages
   - offline
   - social:
       cards_layout_options:
