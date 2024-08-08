@@ -2,4 +2,5 @@ sort_type: natural
 
 nav:
   - Home: index.md
+  - CS Course Map: cs-course-map
   - ...
