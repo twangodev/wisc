@@ -34,7 +34,7 @@ jobs:
       - name: Run Python Script
         run: pipenv run python course_details.py
 
-      - name: Run Python Script and Check for Changes
+      - name: Check for Changes
         id: check_changes
         run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_OUTPUT
         continue-on-error: true
