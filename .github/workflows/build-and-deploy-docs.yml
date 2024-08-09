@@ -36,11 +36,11 @@ jobs:
 
       - name: Check for Changes
         id: check_changes
-        run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_OUTPUT
+        run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_ENV
         continue-on-error: true
 
       - name: Commit Changes
-        if: steps.check_changes.outputs.files_changed == 'true'
+        if: env.files_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update from script"
@@ -51,7 +51,6 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     needs: run-sync
-    if: needs.run-sync.outputs.files_changed != 'true'
     steps:
       - uses: actions/checkout@v3
         with:
