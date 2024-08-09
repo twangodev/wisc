@@ -12,10 +12,42 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+
+  run-sync:
+    name: Run Sync Script
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3
+          cache: pipenv
+
+      - name: Install pipenv
+        run: python3 -m pip install --upgrade pip pipenv
+
+      - name: Install Dependencies
+        run: pipenv sync
+
+      - name: Run Python Script and Check for Changes
+        id: run_script
+        run: |
+          pipenv run python course_details.py
+          git diff --exit-code || echo "files_changed=true" >> $GITHUB_ENV
+
+      - name: Commit Changes
+        if: env.files_changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update from script"
+          branch: ${{ github.ref_name }}
+
   build:
-    name: Build
+    name: Build MkDocs
     runs-on: ubuntu-latest
     environment: production
+    needs: run-sync
+    if: env.files_changed != 'true'  # Skip build if files were changed
     steps:
       - uses: actions/checkout@v3
         with:
