@@ -238,6 +238,46 @@ const courseData = [
     {data: {target: '642', source: '240', type: 'recommended'}},
 ];
 
+
+
+function tippyFactory(ref, content){
+    // Since tippy constructor requires DOM element/elements, create a placeholder
+    var dummyDomEle = document.createElement('div');
+
+    var tip = tippy( dummyDomEle, {
+        getReferenceClientRect: ref.getBoundingClientRect,
+        trigger: 'manual', // mandatory
+        // dom element inside the tippy:
+        content: content,
+        // your own preferences:
+        arrow: true,
+        placement: 'bottom',
+        hideOnClick: true,
+        sticky: "reference",
+
+        // if interactive:
+        interactive: false,
+        appendTo: document.body // or append dummyDomEle to document.body
+    } );
+
+    return tip;
+}
+
+cytoscape.use(cytoscapePopper(tippyFactory));
+
+let myTip;
+
+function setTip(newTip) {
+    myTip?.destroy();
+    myTip = newTip;
+}
+
+let courseMetadata;
+
+fetch('https://wisc.twango.dev/cs-course-map/data.json').then(response => response.json()).then(data => {
+    courseMetadata = data;
+});
+
 document.addEventListener('DOMContentLoaded', () => {
 
     let cyLegend = cytoscape({
@@ -270,6 +310,7 @@ document.addEventListener('DOMContentLoaded', () => {
         targetNode.addClass('highlighted-nodes');
 
         cyLegend.nodes().difference(targetNode).addClass('faded');
+        cy.edges().addClass('faded');
 
         const nonCompoundNodes = getNonCompoundNodes();
 
@@ -350,6 +391,40 @@ document.addEventListener('DOMContentLoaded', () => {
         ]
     }).run();
 
+    cy.on('click', 'node', function(event) {
+        const targetNode = event.target;
+        if (targetNode?.data('type') === 'compound') {
+            return;
+        }
+
+        let department = 'COMP SCI'
+        const courseId = targetNode.data('label') || targetNode.id();
+        const category = targetNode.data('parent')
+
+        if (category === 'math' || category === 'stat') {
+            department = category.toUpperCase();
+        }
+
+        const course = `${department} ${courseId}`;
+        const metadata = courseMetadata[department][courseId];
+        const title = metadata?.title ?? 'Unknown Title';
+        const description = metadata?.description ?? `No description available for ${course}`;
+
+        let tip = targetNode.popper({
+            content: () => {
+                let content = document.createElement('div');
+                content.innerHTML = `
+                <strong>${course} - ${title}</strong>
+                <p>${description}</p>
+                `;
+                return content;
+            },
+        });
+        tip.show();
+
+        setTip(tip);
+    });
+
     cy.on('mouseover', 'node', function(event) {
         const targetNode = event.target;
         highlightPath(targetNode);
@@ -359,6 +434,7 @@ document.addEventListener('DOMContentLoaded', () => {
         cy.nodes().removeClass('highlighted-nodes');
         cy.elements().removeClass('faded');
         cy.edges().removeClass('highlighted-edges');
+        myTip?.destroy();
     });
 
     function getNonCompoundNodes() {
