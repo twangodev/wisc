@@ -43,13 +43,7 @@ jobs:
       - name: Run Python Script
         run: pipenv run python course_details.py
 
-      - name: Check for Changes
-        id: check_changes
-        run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_ENV
-        continue-on-error: true
-
       - name: Commit Changes
-        if: env.files_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update from script"
