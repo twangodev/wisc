@@ -34,6 +34,11 @@ jobs:
         run: |
           pipenv run python course_details.py
           git diff --exit-code || echo "files_changed=true" >> $GITHUB_ENV
+        continue-on-error: true
+
+      - name: Set Output
+        id: set_output
+        run: echo "::set-output name=files_changed::${{ env.files_changed }}"
 
       - name: Commit Changes
         if: env.files_changed == 'true'
@@ -47,7 +52,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: production
     needs: run-sync
-    if: env.files_changed != 'true'  # Skip build if files were changed
+    if: needs.run-sync.outputs.files_changed != 'true'
     steps:
       - uses: actions/checkout@v3
         with:
