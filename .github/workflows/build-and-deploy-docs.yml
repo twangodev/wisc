@@ -22,10 +22,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Pull latest changes
-        if: needs.run-sync.outputs.files_changed == 'true'
-        run: git pull origin ${{ github.ref_name }}
-
       - uses: actions/setup-python@v4
         with:
           python-version: 3
