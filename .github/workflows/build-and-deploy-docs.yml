@@ -13,44 +13,10 @@ concurrency:
 
 jobs:
 
-  run-sync:
-    name: Run Sync Script
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3
-          cache: pipenv
-
-      - name: Install pipenv
-        run: python3 -m pip install --upgrade pip pipenv
-
-      - name: Install Dependencies
-        run: pipenv sync
-
-      - name: Run Python Script
-        run: pipenv run python course_details.py
-
-      - name: Check for Changes
-        id: check_changes
-        run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_OUTPUT
-        continue-on-error: true
-
-      - name: Commit Changes
-        if: steps.check_changes.outputs.files_changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Auto-update from script"
-          branch: ${{ github.ref_name }}
-
   build:
     name: Build MkDocs
     runs-on: ubuntu-latest
     environment: production
-    needs: run-sync
     steps:
       - uses: actions/checkout@v3
         with:
@@ -75,6 +41,22 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+
+      - name: Run Python Script
+        run: pipenv run python course_details.py
+
+      - name: Check for Changes
+        id: check_changes
+        run: git diff --exit-code || echo "files_changed=true" >> $GITHUB_ENV
+        continue-on-error: true
+
+      - name: Commit Changes
+        if: env.files_changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update from script"
+          branch: ${{ github.ref_name }}
+
       - name: Build Documentation
         run: pipenv run mkdocs build
       - name: Upload Pages Artifact
