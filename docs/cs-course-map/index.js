@@ -278,6 +278,12 @@ fetch('https://wisc.twango.dev/cs-course-map/data.json').then(response => respon
     courseMetadata = data;
 });
 
+let lastUpdated;
+
+fetch('https://api.github.com/repos/twangodev/wisc/commits?path=/docs/cs-course-map/').then(response => response.json()).then(data => {
+    lastUpdated = data[0].commit.author.date;
+});
+
 document.addEventListener('DOMContentLoaded', () => {
 
     let cyLegend = cytoscape({
@@ -392,8 +398,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }).run();
 
     cy.on('click', 'node', function(event) {
-        const timestamp = courseMetadata['last_updated']
-
         const targetNode = event.target;
         if (targetNode?.data('type') === 'compound') {
             return;
@@ -419,7 +423,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h2>${course}</h2>
                 <h3>${title}</h3>
                 <p>${description}</p>
-                <h4>Updated ${convertISO8601(timestamp)}</h4>
+                <h4>Updated ${convertISO8601(lastUpdated)}</h4>
                 <h5>Course requisites and recommendations are not automatically synced. If you notice an inconsistency, open an issue <a href="https://github.com/twangodev/wisc">on GitHub</a></h5>
                 `;
                 return content;
