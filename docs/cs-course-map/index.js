@@ -280,7 +280,7 @@ fetch('https://wisc.twango.dev/cs-course-map/data.json').then(response => respon
 
 let lastUpdated;
 
-fetch('https://api.github.com/repos/twangodev/wisc/commits?path=/docs/cs-course-map/').then(response => response.json()).then(data => {
+fetch('https://api.github.com/repos/twangodev/wisc/commits?path=/docs/cs-course-map/data.json').then(response => response.json()).then(data => {
     lastUpdated = data[0].commit.author.date;
 });
 
