@@ -256,7 +256,7 @@ function tippyFactory(ref, content){
         sticky: "reference",
 
         // if interactive:
-        interactive: false,
+        interactive: true,
         appendTo: document.body // or append dummyDomEle to document.body
     } );
 
@@ -392,6 +392,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }).run();
 
     cy.on('click', 'node', function(event) {
+        const timestamp = courseMetadata['last_updated']
+
         const targetNode = event.target;
         if (targetNode?.data('type') === 'compound') {
             return;
@@ -414,8 +416,11 @@ document.addEventListener('DOMContentLoaded', () => {
             content: () => {
                 let content = document.createElement('div');
                 content.innerHTML = `
-                <strong>${course} - ${title}</strong>
+                <h2>${course}</h2>
+                <h3>${title}</h3>
                 <p>${description}</p>
+                <h4>Updated ${convertISO8601(timestamp)}</h4>
+                <h5>Course requisites and recommendations are not automatically synced. If you notice an inconsistency, open an issue <a href="https://github.com/twangodev/wisc">on GitHub</a></h5>
                 `;
                 return content;
             },
