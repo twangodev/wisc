@@ -239,12 +239,11 @@ const courseData = [
 ];
 
 
-
-function tippyFactory(ref, content){
+function tippyFactory(ref, content) {
     // Since tippy constructor requires DOM element/elements, create a placeholder
     var dummyDomEle = document.createElement('div');
 
-    var tip = tippy( dummyDomEle, {
+    var tip = tippy(dummyDomEle, {
         getReferenceClientRect: ref.getBoundingClientRect,
         trigger: 'manual', // mandatory
         // dom element inside the tippy:
@@ -258,7 +257,7 @@ function tippyFactory(ref, content){
         // if interactive:
         interactive: true,
         appendTo: document.body // or append dummyDomEle to document.body
-    } );
+    });
 
     return tip;
 }
@@ -311,7 +310,7 @@ document.addEventListener('DOMContentLoaded', () => {
         autounselectify: true,
     });
 
-    cyLegend.on('mouseover', 'node', function(event) {
+    cyLegend.on('mouseover', 'node', function (event) {
         const targetNode = event.target;
         targetNode.addClass('highlighted-nodes');
 
@@ -320,7 +319,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const nonCompoundNodes = getNonCompoundNodes();
 
-        const highlightedNodes = nonCompoundNodes.filter(function(node) {
+        const highlightedNodes = nonCompoundNodes.filter(function (node) {
             return node.data('parent') === targetNode.id();
         })
         highlightedNodes.addClass('highlighted-nodes');
@@ -328,7 +327,7 @@ document.addEventListener('DOMContentLoaded', () => {
         nonCompoundNodes.difference(highlightedNodes).addClass('faded');
     });
 
-    cyLegend.on('mouseout', 'node', function(event) {
+    cyLegend.on('mouseout', 'node', function (event) {
         cyLegend.nodes().removeClass('highlighted-nodes');
         cyLegend.nodes().removeClass('faded');
 
@@ -376,28 +375,27 @@ document.addEventListener('DOMContentLoaded', () => {
         fixedNodeConstraint: [
             {
                 nodeId: '300',
-                position: { x: -100, y: 0 }
+                position: {x: -100, y: 0}
             },
             {
                 nodeId: '400',
-                position: { x: 100, y: 0 }
+                position: {x: 100, y: 0}
             }
         ],
         alignmentConstraint: {
-            vertical: [
-            ],
+            vertical: [],
             horizontal: [
                 ['221', '222'],
                 ['300', '400']
             ]
         },
         relativePlacementConstraint: [
-            { left: '200', right : '300', gap: 100 },
-            { left: '221', right : '222', gap: 200 },
+            {left: '200', right: '300', gap: 100},
+            {left: '221', right: '222', gap: 200},
         ]
     }).run();
 
-    cy.on('click', 'node', function(event) {
+    cy.on('click', 'node', function (event) {
         const targetNode = event.target;
         if (targetNode?.data('type') === 'compound') {
             return;
@@ -434,12 +432,12 @@ document.addEventListener('DOMContentLoaded', () => {
         setTip(tip);
     });
 
-    cy.on('mouseover', 'node', function(event) {
+    cy.on('mouseover', 'node', function (event) {
         const targetNode = event.target;
         highlightPath(targetNode);
     });
 
-    cy.on('mouseout', 'node', function(event) {
+    cy.on('mouseout', 'node', function (event) {
         cy.nodes().removeClass('highlighted-nodes');
         cy.elements().removeClass('faded');
         cy.edges().removeClass('highlighted-edges');
@@ -447,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     function getNonCompoundNodes() {
-        return cy.nodes().filter(function(node) {
+        return cy.nodes().filter(function (node) {
             return node.data('type') !== 'compound';
         });
     }

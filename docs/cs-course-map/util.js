@@ -1,4 +1,3 @@
-
 // Function to format the timestamp into relative time
 function timeAgo(date) {
     const now = new Date();
@@ -32,7 +31,7 @@ function timeAgo(date) {
 
 // Function to format the timestamp into a full date format
 function formatDate(date) {
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    const options = {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'};
     return date.toLocaleDateString(undefined, options);
 }
 

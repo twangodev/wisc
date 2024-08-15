@@ -3,26 +3,31 @@
 <head>
     <title>UW CS Course Map</title>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="A visual and intuitive course map for students at the University of Wisconsin-Madison.">
-    <meta name="keywords" content="course, map, uw, madison, cs, computer, science">
-    <meta name="author" content="James Ding">
-    <meta http-equiv="Content-Language" content="en">
-    <meta property="og:title" content="UW CS Course Map">
-    <meta property="og:description" content="A visual and intuitive course map for students at the University of Wisconsin-Madison.">
-    <meta property="og:url" content="https://wisc.twango.dev/cs-course-map/embed.html">
-    <meta property="og:type" content="website">
-    <link rel="canonical" href="https://wisc.twango.dev/cs-course-map/">
-    <link rel="icon" href="https://wisc.twango.dev/assets/crest.svg" type="image/x-icon">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <meta content="width=device-width, initial-scale=1" name="viewport"/>
+    <meta content="A visual and intuitive course map for students at the University of Wisconsin-Madison."
+          name="description">
+    <meta content="course, map, uw, madison, cs, computer, science" name="keywords">
+    <meta content="James Ding" name="author">
+    <meta content="en" http-equiv="Content-Language">
+    <meta content="UW CS Course Map" property="og:title">
+    <meta content="A visual and intuitive course map for students at the University of Wisconsin-Madison."
+          property="og:description">
+    <meta content="https://wisc.twango.dev/cs-course-map/embed.html" property="og:url">
+    <meta content="website" property="og:type">
+    <link href="https://wisc.twango.dev/cs-course-map/" rel="canonical">
+    <link href="https://wisc.twango.dev/assets/crest.svg" rel="icon" type="image/x-icon">
+    <link href="https://fonts.googleapis.com" rel="preconnect">
+    <link crossorigin href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"
+          rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.21.0/cytoscape.min.js"></script>
     <script src="https://unpkg.com/layout-base/layout-base.js"></script>
     <script src="https://unpkg.com/cose-base/cose-base.js"></script>
     <script src="https://unpkg.com/cytoscape-fcose/cytoscape-fcose.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/cytoscape-layout-utilities@1.1.1/cytoscape-layout-utilities.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape-popper/4.0.0/cytoscape-popper.js" integrity="sha512-flBx8fdWy2j3ei//GQqYveiCusTz79hFdcFmaglnEidVm07RbS+R5j+rpl/2XQkV/iw06ZB483mSBQTypQOttw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script crossorigin="anonymous"
+            integrity="sha512-flBx8fdWy2j3ei//GQqYveiCusTz79hFdcFmaglnEidVm07RbS+R5j+rpl/2XQkV/iw06ZB483mSBQTypQOttw=="
+            referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape-popper/4.0.0/cytoscape-popper.js"></script>
     <script src="https://unpkg.com/@popperjs/core@2"></script>
     <script src="https://unpkg.com/tippy.js@6"></script>
     <script src="index.js"></script>
@@ -39,17 +44,20 @@
             overflow: hidden;
             font-family: 'Roboto', sans-serif;
         }
+
         #cy {
             width: 100%;
             height: 90vh;
             display: block;
         }
+
         #legend {
             width: 90%;
             height: 10vh;
             margin: 0 auto;
             display: block;
         }
+
         a {
             color: #007bff;
             text-decoration: none;
