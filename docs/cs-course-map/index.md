@@ -1,9 +1,8 @@
 ---
 hide:
-    - toc
-    - navigation
+  - toc
+  - navigation
 ---
-
 
 # CS Course Map
 
