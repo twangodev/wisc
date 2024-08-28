@@ -1,2 +1,2 @@
-# Mathematics 340 - Elementary Matrix and Linear Algebra
+# Elementary Matrix and Linear Algebra
 

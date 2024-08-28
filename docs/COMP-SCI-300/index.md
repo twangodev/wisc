@@ -1,1 +1,1 @@
-# Computer Sciences 300 - Programming II
+# Programming II
