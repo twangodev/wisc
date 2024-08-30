@@ -11,7 +11,7 @@ hide:
 
 ---
 
-##  Welcome to Wisc Guide
+## Welcome to Wisc Guide
 
 This is a collection of notes and resources for some courses at [UW-Madison](https://www.wisc.edu/).
 
@@ -26,6 +26,7 @@ If you found this guide helpful, please consider starring the [GitHub repository
 View the standalone page [here](https://wisc.twango.dev/print_page.html).
 
 ## Contributing
+
 If you notice that any information is incorrect, missing, or would like content removed, open an issue.
 
 If you would like to make changes or add your content to the guide, fork the repository and open a pull request.
