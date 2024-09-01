@@ -13,12 +13,12 @@ This is my personal degree plan for the Computer Science program at [UW-Madison]
 - [x] Communication Part A
 - [x] Communication Part B
 - [x] Ethnic Studies
-- [x] Quantitative Reasoning Part A 
+- [x] Quantitative Reasoning Part A
 - [x] Quantitative Reasoning Part B
 
 ### College of Letters & Science Requirements (Bachelor of Science)
 
-- [x] Complete two courses of 3+ credits at the Intermediate or Advanced level in MATH, COMP SCI, or STAT subjects. A maximum of one course in each of COMP SCI and STAT subjects counts toward this requirement. 
+- [x] Complete two courses of 3+ credits at the Intermediate or Advanced level in MATH, COMP SCI, or STAT subjects. A maximum of one course in each of COMP SCI and STAT subjects counts toward this requirement.
 - [x] Complete the third unit of a language other than English.
 - [ ] Letters & Science Breath
     - [ ] 12 credits of Humanities, which must include at least 6 credits of Literature; and
@@ -26,9 +26,9 @@ This is my personal degree plan for the Computer Science program at [UW-Madison]
     - [ ] 12 credits of Natural Science, which must include 6 credits of Biological Science and 6 credits of Physical Science.
 - [ ] Liberal Arts and Science Coursework: Complete at least 108 credits.
 - [ ] Depth of Intermediate/Advanced Coursework: Complete at least 60 credits at the Intermediate or Advanced level.
-- [ ] Major	Declare and complete at least one major.
-- [ ] Total Credits	Complete at least 120 credits.
-- [ ] UW-Madison Experience	Complete both:
+- [ ] Major Declare and complete at least one major.
+- [ ] Total Credits Complete at least 120 credits.
+- [ ] UW-Madison Experience Complete both:
     - [ ] 30 credits in residence, overall, and
     - [ ] 30 credits in residence after the 86th credit.
 - [ ] Quality of Work
@@ -46,7 +46,7 @@ This is my personal degree plan for the Computer Science program at [UW-Madison]
 | Course       | Description                                               | Credits | Institution                                 |
 |--------------|-----------------------------------------------------------|---------|---------------------------------------------|
 | MATH 221     | MATH N1A: Calculus                                        | 4.0     | [UC Berkeley](https://berkeley.edu)         |
-| COMP SCI X12 | CS 197: Field Study                                       | 1.0     | [UC Berkeley](https://berkeley.edu)         |     
+| COMP SCI X12 | CS 197: Field Study                                       | 1.0     | [UC Berkeley](https://berkeley.edu)         |
 | COMP SCI X16 | CS 61A: Structure and Interpretation of Computer Programs | 4.0     | [UC Berkeley](https://berkeley.edu)         |
 | COMP SCI X16 | CS 61BL: Data Structures                                  | 4.0     | [UC Berkeley](https://berkeley.edu)         |
 | COMP SCI X12 | CAS 92A: Introduction to Networks                         | 3.0     | [Chabot College](https://chabotcollege.edu) |
@@ -60,7 +60,6 @@ This is my personal degree plan for the Computer Science program at [UW-Madison]
 | ENGL X04     | AP English Language and Composition                       | 3.0     | [College Board](https://collegeboard.org)   |
 | LIT X10      | AP English Literature and Composition                     | 3.0     | [College Board](https://collegeboard.org)   |
 | POLI SCI X20 | AP US Government and Politics                             | 3.0     | [College Board](https://collegeboard.org)   |
-
 
 ## Freshman Year (2024-2025)
 
