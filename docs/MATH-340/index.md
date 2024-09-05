@@ -6,6 +6,9 @@ An introduction to linear algebra. Topics include matrix algebra, linear systems
 
 View the syllabus [here](./syllabus.pdf)
 
-## Textbook
+## Textbook and Resources
 
-[Linear Algebra with Applications (W. Keith Nicholson)](./textbook.pdf)
+- [Linear Algebra with Applications (W. Keith Nicholson)](./textbook.pdf)
+- [Student Guide](./student-guide.pdf)
+
+
