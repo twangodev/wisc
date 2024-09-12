@@ -121,7 +121,7 @@ The systems $(*)$ and $(**)$ are **equivalent** if they have the same solution s
 
     - Interchange two equations ($E_i \leftrightarrow E_j$)
     - Multiply an equation by a nonzero constant ($cE_i$, where $c \neq 0$)
-    - Add a multiple of one equation to another equation ($E_i + cE_j$, where $c \neq 0$)
+    - Add a multiple of one equation to another equation ($E_i + cE_j$)
 
 We track these operations using an array/matrix to record the coefficients of the linear system.
 
