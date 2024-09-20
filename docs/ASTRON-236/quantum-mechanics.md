@@ -64,9 +64,37 @@ $$
 i\hbar\frac{\partial}{\partial t}\Psi = -\frac{\hbar^2}{2m}\frac{\partial^2}{\partial x^2}\Psi + V\Psi
 $$
 
+#### Schrödinger's Cat
+
+- A cat is placed in a box with a vial of poison
+- The vial of poison is connected to a Geiger counter
+- The Geiger counter is connected to a radioactive source
+- The radioactive source has a 50% chance of decaying in an hour
+- If the source decays, the Geiger counter detects it and breaks the vial of poison
+- The cat is in a superposition of states
+    - Alive
+    - Dead
+
 ### The Wave Equation
 
 $$
 \frac{\partial^2}{\partial x^2}\Psi = c^2\frac{\partial^2}{\partial t^2}\Psi
 $$
 
+### Standing Waves
+
+- Standing waves are waves that do not move
+- Same thing happens to solutions in Schrödinger's equation
+    - Particles in a box
+
+### Uncertainty Principle
+
+- We can never know everything about a particle
+    - Includes the energy of a system
+- Energy conservation can be violated
+
+### Wave-Particle Duality
+
+- Double-slit experiment
+    - Light behaves like a wave
+    - Light behaves like a particle
