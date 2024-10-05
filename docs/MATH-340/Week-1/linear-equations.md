@@ -14,48 +14,48 @@ Linear Algebra is a mathematics emerging from solving systems of linear equation
 !!! example
     Find all $x$, $y$ such that $x-y=-2$ and $3x-6y=-15$
 
-#### Method 1 (Substitution)
-Solving for one variable in an equation, and substituting into the other
+    #### Method 1 (Substitution)
+    Solving for one variable in an equation, and substituting into the other
 
-$$
-\begin{align*}
-& x - y = -2 \\
-& 3x - 6y = -15 \\\\
-& x = y - 2 \\\\
-& 3(y - 2) - 6y = -15 \\
-& 3y - 6 - 6y = -15 \\
-& -3y - 6 = -15 \\
-& -3y = -9 \\
-& y = 3 \\\\
-& x = 3 - 2 \\
-& x = 1 \\\\
-& x = 1, y = 3 \quad \blacksquare
-\end{align*}
-$$
+    $$
+    \begin{align*}
+    & x - y = -2 \\
+    & 3x - 6y = -15 \\\\
+    & x = y - 2 \\\\
+    & 3(y - 2) - 6y = -15 \\
+    & 3y - 6 - 6y = -15 \\
+    & -3y - 6 = -15 \\
+    & -3y = -9 \\
+    & y = 3 \\\\
+    & x = 3 - 2 \\
+    & x = 1 \\\\
+    & x = 1, y = 3 \quad \blacksquare
+    \end{align*}
+    $$
 
-!!! warning
-    The issue with this method gets harder with more variables and equations
+    !!! warning
+        The issue with this method gets harder with more variables and equations
 
-#### Method 2 (Elimination)
-Adding equations, subtracting equations, multiplying equations to simplify equations in a way to eliminate variables
+    #### Method 2 (Elimination)
+    Adding equations, subtracting equations, multiplying equations to simplify equations in a way to eliminate variables
 
-$$
-\begin{align*}
-& x-y=-2\\
-& 3x-6y=-15\\\\
-& x-y=-2\\
-& 0x-3y=-9 \\\\
-& y=3\\
-& x=1\\\\
-& x = 1, y = 3 \quad \blacksquare
-\end{align*}
-$$
+    $$
+    \begin{align*}
+    & x-y=-2\\
+    & 3x-6y=-15\\\\
+    & x-y=-2\\
+    & 0x-3y=-9 \\\\
+    & y=3\\
+    & x=1\\\\
+    & x = 1, y = 3 \quad \blacksquare
+    \end{align*}
+    $$
 
-#### Geometric Picture
+    #### Geometric Picture
 
-<iframe src="https://www.desmos.com/calculator/w4xmdqoptx?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+    <iframe src="https://www.desmos.com/calculator/w4xmdqoptx?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-Graphically, where the two lines meet is the solution to the system
+    Graphically, where the two lines meet is the solution to the system
 
 ### Generalized Possible Solutions
 
@@ -68,17 +68,17 @@ Graphically, where the two lines meet is the solution to the system
 !!! example
     Find all $x$, $y$, $z$ such that $x-2y+4z=1$ and $x+y+7z=3$
 
-$$
-\begin{align*}
-& x-2y+4z=1\\
-& x+y+7z=3\\\\
-& x-2y+4z=1\\
-& 3y+3z=2\\\\
-& 3y+3z=2 \rightarrow y=-z+\frac{2}{3}\\
-& x-2y+4z=1 \rightarrow x-2(-z+\frac{2}{3}) + 4z = 1 \rightarrow -6z + \frac{7}{3}\\\\
-& (x, y, z) = (-6z + \frac{7}{3}, -z + \frac{2}{3}, z) \quad \blacksquare
-\end{align*}
-$$
+    $$
+    \begin{align*}
+    & x-2y+4z=1\\
+    & x+y+7z=3\\\\
+    & x-2y+4z=1\\
+    & 3y+3z=2\\\\
+    & 3y+3z=2 \rightarrow y=-z+\frac{2}{3}\\
+    & x-2y+4z=1 \rightarrow x-2(-z+\frac{2}{3}) + 4z = 1 \rightarrow -6z + \frac{7}{3}\\\\
+    & (x, y, z) = (-6z + \frac{7}{3}, -z + \frac{2}{3}, z) \quad \blacksquare
+    \end{align*}
+    $$
 
 In the example above, $z$ is a free variable, meaning $z$ can be any value
 
@@ -135,46 +135,46 @@ Given equations $E_1, E_2, \ldots, E_m$, we can perform the following operations
 !!! example
     Find all $x$, $y$ such that $x-y=-2$ and $3x-6y=-15$
 
-$$
-\begin{align*}
-& \left[
-\begin{array}{cc|c}
-1 & -1 & -2 \\
-3 & -6 & -15
-\end{array}
-\right]
-\quad
--3R_1 + R_2 \rightarrow R_2 \\
-& = \left[
-\begin{array}{cc|c}
-1 & -1 & -2 \\
-0 & -3 & -9
-\end{array}
-\right]
-\end{align*}
-$$
+    $$
+    \begin{align*}
+    & \left[
+    \begin{array}{cc|c}
+    1 & -1 & -2 \\
+    3 & -6 & -15
+    \end{array}
+    \right]
+    \quad
+    -3R_1 + R_2 \rightarrow R_2 \\
+    & = \left[
+    \begin{array}{cc|c}
+    1 & -1 & -2 \\
+    0 & -3 & -9
+    \end{array}
+    \right]
+    \end{align*}
+    $$
 
 !!! example
     Find all $x$, $y$, $z$ such that $x-2y+4z=1$ and $x+y+7z=3$
 
-$$
-\begin{align*}
-& \left[
-\begin{array}{ccc|c}
-1 & -2 & 4 & 1 \\
-1 & 1 & 7 & 3
-\end{array}
-\right]
-\quad
--R_1 + R_2 \rightarrow R_2 \\
-& = \left[
-\begin{array}{ccc|c}
-1 & -2 & 4 & 1 \\
-0 & 3 & 3 & 2
-\end{array}
-\right]
-\end{align*}
-$$
+    $$
+    \begin{align*}
+    & \left[
+    \begin{array}{ccc|c}
+    1 & -2 & 4 & 1 \\
+    1 & 1 & 7 & 3
+    \end{array}
+    \right]
+    \quad
+    -R_1 + R_2 \rightarrow R_2 \\
+    & = \left[
+    \begin{array}{ccc|c}
+    1 & -2 & 4 & 1 \\
+    0 & 3 & 3 & 2
+    \end{array}
+    \right]
+    \end{align*}
+    $$
 
 Solving linear systems using matrices is more efficient and systematic than substitution or elimination
 
