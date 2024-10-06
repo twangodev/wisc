@@ -12,7 +12,7 @@ plugins:
         font_family: Red Hat Display
   - charts
   - git-committers:
-      repository: twangodev/cca
+      repository: twangodev/wisc
       branch: main
       token: !ENV ["MKDOCS_GIT_COMMITTERS_APIKEY"]
   - git-revision-date-localized:
