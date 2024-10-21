@@ -96,6 +96,10 @@
             "title": "INTRODUCTION TO COMPUTATIONAL STATISTICS",
             "description": "Classical statistical procedures arise where closed-form mathematical expressions are available for various inference summaries (e.g. linear regression; analysis of variance). A major emphasis of modern statistics is the development of inference principles in cases where both more complex data structures are involved and where more elaborate computations are required. Topics from numerical linear algebra, optimization, Monte Carlo (including Markov chain Monte Carlo), and graph theory are developed, especially as they relate to statistical inference (e.g., bootstrapping, permutation, Bayesian inference, EM algorithm, multivariate analysis)."
         },
+        "472": {
+            "title": "INTRODUCTION TO WEB DEVELOPMENT",
+            "description": "Applied web development introduces methods and tools for creating/maintaining secure and interactive web content. Topics include programming fundamentals to support core web concepts, application development essentials, and content management systems. Web best practices - such as accessibility, design, and critical thinking about relevant ethics and organization - will be incorporated throughout. Gain practical skills to design and implement websites using popular scripting languages and frameworks, content management systems (CMSs), and related tools."
+        },
         "475": {
             "title": "INTRODUCTION TO COMBINATORICS",
             "description": "Problems of enumeration, distribution, and arrangement. Inclusion-exclusion principle. Generating functions and linear recurrence relations. Combinatorial identities. Graph coloring problems. Finite designs. Systems of distinct representatives and matching problems in graphs. Potential applications in the social, biological, and physical sciences. Puzzles. Problem solving."
@@ -214,7 +218,7 @@
         },
         "570": {
             "title": "INTRODUCTION TO HUMAN-COMPUTER INTERACTION",
-            "description": "User-centered software design; (1) principles of and methods for understanding user needs, designing and prototyping interface solutions, and evaluating their usability, (2) their applications in designing web-based, mobile,and embodied interfaces through month long group projects.  Meets with Comp Sci 270."
+            "description": "User-centered software design: (1) principles of and methods for understanding user needs; designing and prototyping interface solutions; and evaluating their usability, (2) their applications in designing multiple types of interfaces through group projects."
         },
         "571": {
             "title": "BUILDING USER INTERFACES",
@@ -251,6 +255,10 @@
         "614": {
             "title": "USER EXPERIENCE DESIGN CAPSTONE",
             "description": "Applies a design studio critique approach to produce a learning environment of collaborative and interdisciplinary peer critique and learning, in addition to provide expert feedback and suggestions. Present and defend the latest iteration of the user experience design project developed in earlier courses while learning about the professions associated with digital user experience design."
+        },
+        "620": {
+            "title": "COMPUTER SCIENCES CAPSTONE",
+            "description": "Build a meaningful product from start to finish with a local, regional, national and international corporate client that solves a real-world problem. In a collaborative space design, develop, test, debug, document, and deliver a software project for a corporate client, learning and using new technologies and agile software development techniques."
         },
         "635": {
             "title": "TOOLS AND ENVIRONMENTS FOR OPTIMIZATION",
@@ -567,12 +575,12 @@
             "description": "Credit is awarded to students who have completed an appropriate math course abroad at the intermediate level having no direct equivalence within the math department offerings. The study abroad course must be pre-approved by the math department."
         },
         "211": {
-            "title": "SURVEY OF CALCULUS",
-            "description": "Essential concepts of differential and integral calculus; exponential and logarithmic functions; functions of several variables. Primarily for students in prebusiness and some social sciences. Students preparing for advanced study in mathematics, physics, engineering and other sciences (including most biological sciences) should takeMATH\u00a0221"
+            "title": "SURVEY OF CALCULUS 1",
+            "description": "Essential concepts of differential and integral calculus; exponential and logarithmic functions; functions of several variables. Primarily for students in prebusiness and some social sciences. Students preparing for advanced study in mathematics, physics, engineering and other sciences (including most biological sciences) should takeMATH\u00a0221."
         },
         "213": {
-            "title": "CALCULUS AND INTRODUCTION TO DIFFERENTIAL EQUATIONS",
-            "description": "Techniques of integration, multiple integrals, infinite sequences and series, first order differential equations, two-dimensional systems of differential equations, difference equations, with models from and applications in business and the social and biological sciences."
+            "title": "SURVEY OF CALCULUS 2",
+            "description": "First order differential equations, introduction to multivariable calculus and constrained optimization, infinite sequences and series, methods of approximation, and a brief introduction to probability. Models and applications from business and the social sciences."
         },
         "217": {
             "title": "CALCULUS WITH ALGEBRA AND TRIGONOMETRY II",
@@ -1465,8 +1473,8 @@
             "description": "Introduce new algorithms that leverage randomization to address the scale, speed, and sensitivity needs of modern data science. Develop the mathematical foundations of such randomized algorithms. Criticize these algorithms through the lens of computational resource utilization. Implement these algorithms to address linear problems in data science."
         },
         "775": {
-            "title": "INTRODUCTION TO BAYESIAN DECISION AND CONTROL I",
-            "description": "Common sampling models in business and economic problems, information from data, likelihood function of parameters, choices of models, Bayes' Theorem, subjective basis for probability, sequential nature of Bayesian inference, prior and posterior distributions of parameters in binomial, poisson, exponential and normal populations, comparison of two normal distributions, predictive distributions, decision theory, utility, risk aversion, extensive form of analysis, two-action problems, point estimation, best population problems, economics of sampling."
+            "title": "BAYESIAN STATISTICS",
+            "description": "Introduces the theory, methods, and computational procedures needed to perform advanced Bayesian data analyses. Predictive and decision-theoretic motivations including subjective probability, risk, admissibility, and exchangeability; highlights key components of Bayesian analysis (i.e., prior, likelihood, posterior, and predictive distributions) within standard parametric models and advanced hierarchical and multilevel models; demonstrates the iterative process of model specification, implementation, criticism, and revision with applied case studies; implements computational techniques (e.g., Markov chain Monte Carlo, variational inference) in modern probabilistic programming languages."
         },
         "780": {
             "title": "INTRODUCTION TO QUANTUM DATA SCIENCE",
