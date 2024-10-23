@@ -45,12 +45,6 @@ is worth 15 points for a total of 60 points.
             1. **Greater Legal Protection and Social Value of Chinese Wives in America:** Chinese wives in America not only had more legal rights compared to their counterparts in China, where women were heavily restricted by Confucian norms and patriarchal family structures, but they were also more highly valued due to their scarcity. The limited number of Chinese women in the U.S. meant that wives were often treated with more respect by their husbands and the broader community. They were seen as status symbols, elevating the social standing of the men they married. As a result, Chinese wives in America enjoyed greater social protection and respect, alongside legal avenues to assert their rights in matters such as marriage and personal safety. This combination of legal and social value significantly improved their position compared to women in China. (Source: Judy Yung, Unbound Feet, 1995).
             2. **Economic Independence:** In the U.S., Chinese wives had more opportunities to work and contribute to the household economy compared to women in China. This allowed them a degree of economic independence, as they could engage in work outside the traditional domestic sphere, especially in urban settings like San Francisco. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
 
-    ??? example
-
-        Chinese women in 19th-century America faced significant challenges, including being forced into prostitution and mui tsai, but they found ways to break free. One way was through participation in mutual aid societies. These societies provided shelter, financial assistance, and community support, offering women a way out of their oppressive situations and enabling them to rebuild their lives with greater autonomy (Yung, Unbound Feet, 1995). Another way was marriage, particularly to Chinese men in America. While some marriages were arranged, they provided a form of social stability and protection from exploitation, allowing women to leave behind lives of servitude or prostitution (Takaki, Strangers From a Different Shore, 1990).
-
-        In contrast to their counterparts in China, Chinese wives in America enjoyed several advantages. One was greater legal protection. While their rights were still limited, Chinese women in America had more access to legal avenues to protect themselves and assert their rights, particularly in relation to marriage (Yung, Unbound Feet, 1995). Additionally, Chinese wives in America had more opportunities for economic independence, as they could work outside the home in various industries, contributing to the household economy in ways that were less common in China (Takaki, Strangers From a Different Shore, 1990).
-
 2. Following the passage of the Page Act, what were three specific strategies that immigration officials developed to screen Chinese women for admittance to the United States? [5 points each strategy, 15 points total]
 
     ??? abstract "Key Ideas"
@@ -59,14 +53,6 @@ is worth 15 points for a total of 60 points.
             1. **Interrogation of Marital Status and Occupation:** Immigration officials rigorously interrogated Chinese women about their marital status and occupations in an attempt to determine whether they were entering the United States for immoral purposes, particularly prostitution. Women had to provide extensive documentation or testimony to prove that they were either married or coming for legitimate reasons, such as joining their husbands. This strategy was meant to weed out women suspected of being prostitutes. (Source: Eithne Luibheid, Entry Denied, 2002).
             2. **Inspection of Physical Appearance and Behavior:** Chinese women were subjected to invasive physical examinations and judgments based on their appearance and behavior. Officials often relied on racist stereotypes, assuming that certain physical traits or behaviors were indicative of prostitution. This pseudo-scientific method of assessing morality was another strategy used to deny women entry. (Source: Judy Yung, Unbound Feet, 1995).
             3. **Requirement for Male Sponsorship:** Another strategy was the requirement that Chinese women had male sponsors, typically a husband or close male relative, who could vouch for their character and intentions. Without a male sponsor, women were often assumed to be entering the U.S. for illicit purposes, which made it nearly impossible for single or independent women to gain entry. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
-
-    ??? example
-
-        Following the passage of the Page Act in 1875, immigration officials developed several strategies to screen Chinese women for admittance into the United States. One of the primary methods was the interrogation of women’s marital status and occupations. Officials required Chinese women to provide documentation proving they were married or had legitimate reasons to immigrate, such as joining their husbands, in an effort to exclude those suspected of prostitution (Luibheid, Entry Denied, 2002).
-
-        Another strategy involved inspecting women's physical appearance and behavior during their arrival. Officials used racist stereotypes, judging women's morality based on physical characteristics or behavioral cues, often denying entry to those who appeared "suspicious" (Yung, Unbound Feet, 1995).
-
-        Lastly, women were often required to have a male sponsor—typically a husband or close male relative—who could vouch for their character and intentions. This male sponsorship requirement made it particularly difficult for single women or those without male relatives to immigrate (Takaki, Strangers From a Different Shore, 1990).
 
 3. Draw on two historical examples to explain why it was so difficult for workers to organize across racial and ethnic lines. [5 points each example, 10 points total] Draw on one historical example to show how some workers organized along class lines to fight for better pay and working conditions. [5 points]
 
@@ -77,12 +63,6 @@ is worth 15 points for a total of 60 points.
             2. **Ethnic Fragmentation in Hawaiian Plantations:** On the sugar plantations in Hawai’i, the owners deliberately exploited ethnic divisions among workers by creating a system of ethnic hierarchy and assigning different tasks based on race. For instance, Japanese, Chinese, Filipino, and Portuguese workers were divided by ethnicity, which fostered competition rather than solidarity. Plantation owners promoted this ethnic fragmentation to ensure that the workers could not unite to demand better wages or conditions. This divide-and-conquer strategy was effective in preventing cross-ethnic organizing (Ronald Takaki, “Raising Cane: The World of Plantation Hawai’i,” Strangers From a Different Shore, 1990).
         2. **One Historical Example of Workers Organizing Along Class Lines**
             1. **The Japanese and Filipino Sugar Plantation Strike:** Despite the ethnic divisions on Hawaiian plantations, some workers did manage to organize along class lines to fight for better pay and conditions. In 1920, Japanese and Filipino workers on the sugar plantations put aside their ethnic differences and united in a strike, demanding higher wages and better working conditions. This cross-ethnic labor action marked a significant moment of class-based solidarity, as the workers recognized their shared exploitation by plantation owners and came together to challenge their poor treatment (Ronald Takaki, “Raising Cane: The World of Plantation Hawai’i,” Strangers From a Different Shore, 1990).
-
-    ??? example
-
-        Organizing workers across racial and ethnic lines in the 19th and early 20th centuries proved difficult due to racial hostility and ethnic fragmentation. For example, white laborers in California resented Chinese workers for accepting lower wages, which led to the exclusionary rhetoric of labor leaders like Denis Kearney, who blamed Chinese immigrants for the economic struggles of white workers (Kearney, Indianapolis Times, 1878). Similarly, on Hawaiian sugar plantations, the owners maintained ethnic divisions between Chinese, Japanese, Filipino, and Portuguese laborers to prevent them from uniting in protest (Takaki, Strangers From a Different Shore, 1990).
-
-        However, there were moments when workers organized along class lines. In 1920, Japanese and Filipino workers in Hawaii set aside ethnic differences and united in a strike to demand better pay and conditions. This successful cross-ethnic strike demonstrated that class-based solidarity could overcome racial and ethnic divisions in certain contexts (Takaki, Strangers From a Different Shore, 1990).
 
 4. What two key strategies did Japanese immigrants employ to gain a foothold in the agricultural industry?[5 points each strategy, 10 points total] What series of laws did the California state legislature pass to undercut the gains that Japanese Americans made in the agricultural industry? [5 points]
 
@@ -96,12 +76,6 @@ is worth 15 points for a total of 60 points.
 
                 To circumvent these restrictions, many Japanese immigrants sought to pass their landholdings on to their U.S.-born children, who were American citizens by birth and therefore eligible to own property. However, the California legislature responded by closing this loophole with the Alien Land Law of 1920, which prohibited children of Japanese immigrants from holding land in trust for their parents. This additional legislation further limited the ability of Japanese families to preserve their agricultural gains and pass them on to future generations, solidifying the state's efforts to diminish Japanese influence in the agricultural industry. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
 
-    ??? example
-
-        Japanese immigrants employed several key strategies to establish themselves in the agricultural industry. One of the primary strategies was tenant farming and sharecropping, where Japanese farmers leased land from white owners and applied their intensive farming methods to generate high yields from small plots (Takaki, Strangers From a Different Shore, 1990). Another important strategy was cooperative farming and pooling resources to collectively purchase land, which allowed them to overcome financial barriers to land ownership (Takaki, Strangers From a Different Shore, 1990).
-
-        However, the success of Japanese farmers led to the passage of Alien Land Laws by the California legislature. These laws, starting with the 1913 Alien Land Law, prohibited Japanese immigrants from owning land or securing long-term leases, effectively limiting their ability to maintain and grow their agricultural ventures (Takaki, Strangers From a Different Shore, 1990).
-
 5. Discuss and detail three ways in which the 1907-8 Gentlemen’s Agreement differed from Chinese exclusion. [5 points each way, 15 points total]
 
     ??? abstract "Key Ideas"
@@ -110,10 +84,6 @@ is worth 15 points for a total of 60 points.
             1. **Diplomatic Agreement vs. Formal Legislation:** The 1907-8 Gentlemen's Agreement between the United States and Japan was a diplomatic negotiation rather than a formal exclusionary law passed by Congress, like the 1882 Chinese Exclusion Act. The Japanese government agreed to voluntarily limit the emigration of Japanese laborers to the U.S., while the U.S. agreed to stop segregating Japanese children in public schools. In contrast, the Chinese Exclusion Act was a unilateral decision by the U.S. government to restrict all Chinese laborers from entering the country. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
             2. **Family Unification Allowed for Japanese:** Under the Gentlemen's Agreement, Japanese immigrants already residing in the U.S. were allowed to bring their wives, children, and close family members to join them. This allowed for the formation of stable family units and communities. In contrast, the Chinese Exclusion Act severely restricted the ability of Chinese men to bring their families, especially their wives, resulting in a “bachelor society” where Chinese men lived without their families for extended periods. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
             3. **Racial Perception and Treatment:** Although both the Gentlemen's Agreement and Chinese Exclusion were based on racial prejudices, the two groups were treated differently. The U.S. viewed the Japanese as more diplomatically significant and militarily powerful, leading to a more negotiated and less overtly discriminatory arrangement. In contrast, the Chinese were subject to harsher racism and outright exclusion through legislation, reflecting their lower perceived status in the eyes of American lawmakers. (Source: Mae Ngai, Impossible Subjects, 2004).
-
-    ??? example
-
-        The 1907-8 Gentlemen's Agreement between the U.S. and Japan differed significantly from the earlier Chinese Exclusion Act. First, the Gentlemen's Agreement was a diplomatic negotiation between two governments, unlike the Chinese Exclusion Act, which was a unilateral law passed by the U.S. Congress to restrict Chinese immigration (Takaki, Strangers From a Different Shore, 1990). Second, while the agreement limited Japanese labor immigration, it allowed for family reunification, enabling Japanese immigrants to bring their wives and children to America. In contrast, Chinese immigrants were not granted the same rights, leading to a bachelor society (Takaki, Strangers From a Different Shore, 1990). Finally, Japan’s rising status in global diplomacy influenced the more respectful treatment of Japanese immigrants, whereas Chinese immigrants were subjected to harsher racial discrimination and exclusion (Ngai, Impossible Subjects, 2004).
 
 6. Why did Punjabi men tend to marry Mexican women over white and Black women? [5 points] How did marriage to a Mexican woman lead to more marriages between Punjabi men and Mexican women? [5 points] What was significant about these interracial marriages? [5 points]
 
@@ -131,14 +101,6 @@ is worth 15 points for a total of 60 points.
 
             These interracial marriages were significant because they challenged both legal and social boundaries of race and ethnicity in early 20th-century America. At a time when anti-miscegenation laws made interracial unions between whites and non-whites illegal, the marriages between Punjabi men and Mexican women helped form a new, hybrid cultural identity. These marriages created Punjabi-Mexican communities that blended both cultures, and they provided a space for these two marginalized groups to resist the racial hierarchy that dominated American society. (Source: Karen Isaksen Leonard, Making Ethnic Choices, 1992).
 
-    ??? example
-
-        Punjabi men tended to marry Mexican women rather than white or Black women due to the racial discrimination and social boundaries that prevented unions with white women, while Black women were separated by different racial divides. Mexican women, who shared a similar marginalized status and compatible cultural traditions, were more accessible as marriage partners (Leonard, Making Ethnic Choices, 1992).
-
-        Once these marriages began, they led to more unions between Punjabi men and Mexican women, as these early intermarriages created a model for others to follow. These unions often occurred within the extended family or community networks of the Mexican wives, reinforcing a pattern of Punjabi-Mexican intermarriages (Leonard, Making Ethnic Choices, 1992).
-
-        The significance of these interracial marriages lies in their challenge to both legal and social norms. They helped to establish hybrid communities that blended Mexican and Punjabi cultures, defying the racial hierarchy that dominated American society at the time (Leonard, Making Ethnic Choices, 1992).
-
 7. Many Indian intellectuals and students who immigrated to the United States were politically active. What were they fighting for and what political party did they establish? [5 points] How did they go about circulating their ideas and gain support for their political cause? [5 points] How did these activities ultimately impact South Asian immigration to the United States? [5 points]
 
     ??? abstract "Key Ideas"
@@ -154,14 +116,6 @@ is worth 15 points for a total of 60 points.
         3. **How Did These Activities Impact South Asian Immigration to the U.S.?**
 
             The political activism of the Ghadar Party drew the attention of British and American authorities, who viewed the group as a threat. This led to increased scrutiny and surveillance of South Asian immigrants, and ultimately contributed to restrictive immigration policies targeting South Asians. The party’s revolutionary activities, along with general anti-Asian sentiment, played a role in the passage of exclusionary immigration laws, such as the Immigration Act of 1917, which effectively barred most South Asians from entering the United States. (Source: Mae Ngai, Impossible Subjects, 2004).
-
-    ??? example
-
-        Indian intellectuals and students in the U.S. were politically active in fighting for Indian independence from British colonial rule, and they established the Ghadar Party in 1913 to further this cause. The party aimed to end British rule through revolutionary activities and mobilize Indian immigrants in the United States to support the independence movement (Rudra, Here to Stay, 2022).
-
-        The Ghadar Party circulated its ideas through the Ghadar newspaper, which was published in multiple languages and distributed to Indian communities worldwide. They also organized rallies and public meetings to gain support for their cause (Rudra, Here to Stay, 2022).
-
-        However, these activities ultimately impacted South Asian immigration to the U.S. negatively, as the revolutionary efforts drew the attention of American and British authorities, leading to restrictive immigration policies. The 1917 Immigration Act, for example, effectively barred most South Asians from entering the U.S., partly due to the fear of political activism (Ngai, Impossible Subjects, 2004).
 
 8. Why did U.S. agricultural businesses begin recruiting Filipinos to work on their farms? [5 points] What was the basis for stereotyping Filipino men as “oversexed” and what purpose did this racial caricature serve? [5 points] How did the United States go about excluding Filipino immigration? [5 points]
 
@@ -179,14 +133,6 @@ is worth 15 points for a total of 60 points.
 
             The United States excluded Filipino immigration through the Tydings-McDuffie Act of 1934, which reclassified Filipinos from U.S. nationals to aliens. This act granted the Philippines a transition to independence, but it also severely restricted Filipino immigration by capping the number of Filipinos who could enter the U.S. at 50 per year. This reclassification effectively ended the large-scale immigration of Filipino laborers to the U.S. (Source: Mae Ngai, Impossible Subjects, 2004).
 
-    ??? example
-
-        U.S. agricultural businesses began recruiting Filipinos to work on their farms in the early 20th century because they faced a labor shortage after the exclusion of Chinese and Japanese workers. Filipinos, as U.S. colonial subjects, were not subject to restrictive immigration laws and were seen as a cheaper and more manageable labor force (Takaki, Strangers From a Different Shore, 1990).
-
-        Filipino men were stereotyped as "oversexed" due to their social interactions with white women, especially in public spaces like dance halls, which caused anxiety among the white population. This racial caricature served to justify segregation and discrimination, reinforcing racist hierarchies by framing Filipino men as a sexual threat (Takaki, Strangers From a Different Shore, 1990).
-
-        The United States eventually excluded Filipino immigration through the Tydings-McDuffie Act of 1934, which reclassified Filipinos from U.S. nationals to aliens, capping immigration at 50 people per year. This act effectively ended the large influx of Filipino laborers to the U.S. (Ngai, Impossible Subjects, 2004).
-
 9. Not including the 1882 Chinese Exclusion Act, discuss and detail three immigration policies that contributed to the construction of Asian Americans as “undesirable aliens.” [5 points each policy, 15 points total]
 
     ??? abstract "Key Ideas"
@@ -199,11 +145,6 @@ is worth 15 points for a total of 60 points.
 
         3. **The 1924 Johnson-Reed Immigration Act**
            The Johnson-Reed Immigration Act of 1924 established strict national origin quotas that severely limited immigration from Asia. The law specifically banned all Asian immigrants by prohibiting the entry of "aliens ineligible for citizenship," a category that applied primarily to Asians under the Naturalization Act of 1790, which limited naturalization to white persons. This law solidified Asians' status as “undesirable aliens” and formalized their exclusion from U.S. citizenship and immigration. The act further entrenched racial hierarchies by prioritizing European immigrants over Asians. (Source: Mae Ngai, Impossible Subjects, 2004).
-
-    ??? example
-
-        Three key immigration policies that contributed to the construction of Asian Americans as "undesirable aliens" include the 1917 Immigration Act, the Gentlemen’s Agreement, and the 1924 Johnson-Reed Immigration Act. The 1917 Immigration Act created the Asiatic Barred Zone, explicitly excluding immigrants from most of Asia (Ngai, Impossible Subjects, 2004). The Gentlemen’s Agreement between the U.S. and Japan limited Japanese immigration through diplomatic means, reflecting racialized fears of Japanese workers (Takaki, Strangers From a Different Shore, 1990). Finally, the 1924 Johnson-Reed Act banned all Asian immigration by prohibiting entry to those ineligible for citizenship, cementing Asians' status as undesirable (Ngai, Impossible Subjects, 2004).
-
 
 ### Part 2: Primary Source Analysis
 
@@ -236,16 +177,6 @@ is worth 15 points for a total of 60 points.
 
                 1. **Reason:** The League condemned the Chinese Exclusion Act for its discriminatory and inhumane nature, particularly the 1892 Geary Act, which required Chinese immigrants to carry identification papers or face deportation. The League argued that this law singled out Chinese immigrants for harsh treatment and created a legal framework that essentially criminalized their existence in the United States. They pointed out that no other immigrant group was subjected to such humiliating and degrading measures.
                 2. **Significance:** This argument was significant because it exposed the racial discrimination embedded in the law. By requiring Chinese immigrants to carry special papers, the law treated them as inherently suspicious and unworthy of the same legal protections as other residents. The League's emphasis on the inhumane nature of the law sought to evoke sympathy from the American public and lawmakers by highlighting the suffering it caused to Chinese immigrants and their families.
-
-    ??? example
-
-        The Chinese Equal Rights League was an organization formed to advocate for the civil rights of Chinese immigrants in the United States and oppose discriminatory laws like the Chinese Exclusion Act. In their "Appeal to the People of the United States for the Equality of Manhood," the League argued against the renewal of the Exclusion Act by emphasizing the violation of fundamental American principles, the contributions of Chinese immigrants, and the inhumane nature of the law.
-
-        First, the League argued that the renewal of the Exclusion Act violated the core American principle that "all men are created equal." They pointed out that America was founded on the ideals of liberty and justice, and these ideals should apply to all people, regardless of race. This appeal to American values was significant because it sought to remind the public of the nation's founding principles and challenge the moral basis of exclusionary policies.
-
-        Second, the League highlighted the contributions of Chinese immigrants to American society, particularly in building the transcontinental railroad and developing the American West. By emphasizing these contributions, the League sought to counter the notion that Chinese immigrants were undesirable and instead framed them as integral to the nation’s development. This argument was significant because it exposed the hypocrisy of benefiting from Chinese labor while denying them rights and protections.
-
-        Finally, the League condemned the Chinese Exclusion Act for its discriminatory and inhumane treatment of Chinese immigrants, particularly the 1892 Geary Act, which required Chinese immigrants to carry identification papers. This argument was significant because it highlighted the racial discrimination embedded in the law and the suffering it caused to Chinese immigrants, positioning the exclusionary policies as not only unjust but also cruel.
 
 2. Primary Document #2 – "Exclusion of Hindus from America due to British Influence"
 
