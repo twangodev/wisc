@@ -38,10 +38,10 @@ is worth 15 points for a total of 60 points.
 
     ??? abstract "Key Ideas"
 
-        1. Two Ways Chinese Women Broke Free from Prostitution and Mui Tsai
+        1. **Two Ways Chinese Women Broke Free from Prostitution and Mui Tsai**
             1. **Forming and Participating in Mutual Aid Societies:** Many Chinese women were able to break free from lives of prostitution and mui tsai (domestic servitude) by joining mutual aid societies that provided shelter, financial assistance, and community support. These societies were often run by women who had successfully escaped or resisted the oppressive conditions themselves, helping others to do the same. Through these networks, women could escape their circumstances and begin new lives with greater autonomy. (Source: Judy Yung, Unbound Feet, 1995).
             2. **Marriage as a Pathway to Freedom:** Marriage, particularly to Chinese men who had immigrated to America, provided another means for Chinese women to escape lives of prostitution or mui tsai. Although arranged marriages were common, some women found more agency and security in these unions. The stability of marriage allowed women to leave behind the exploitative conditions they had faced, offering them a more socially acceptable and secure lifestyle. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
-        2. Advantages Chinese Wives in America Had Over Wives in China
+        2. **Advantages Chinese Wives in America Had Over Wives in China**
             1. **Greater Legal Protection:** Chinese wives in America had more legal rights and protection compared to their counterparts in China, where women's legal status was more restricted by traditional Confucian norms and patriarchal family structures. In America, while still limited, Chinese wives had access to some legal avenues for asserting their rights, particularly in relation to their marriages and personal safety. (Source: Judy Yung, Unbound Feet, 1995).
             2. **Economic Independence:** In the U.S., Chinese wives had more opportunities to work and contribute to the household economy compared to women in China. This allowed them a degree of economic independence, as they could engage in work outside the traditional domestic sphere, especially in urban settings like San Francisco. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
 
@@ -55,7 +55,7 @@ is worth 15 points for a total of 60 points.
 
     ??? abstract "Key Ideas"
 
-        1. Three Strategies Immigration Officials Developed to Screen Chinese Women Following the Passage of the Page Act
+        1. **Three Strategies Immigration Officials Developed to Screen Chinese Women Following the Passage of the Page Act**
             1. **Interrogation of Marital Status and Occupation:** Immigration officials rigorously interrogated Chinese women about their marital status and occupations in an attempt to determine whether they were entering the United States for immoral purposes, particularly prostitution. Women had to provide extensive documentation or testimony to prove that they were either married or coming for legitimate reasons, such as joining their husbands. This strategy was meant to weed out women suspected of being prostitutes. (Source: Eithne Luibheid, Entry Denied, 2002).
             2. **Inspection of Physical Appearance and Behavior:** Chinese women were subjected to invasive physical examinations and judgments based on their appearance and behavior. Officials often relied on racist stereotypes, assuming that certain physical traits or behaviors were indicative of prostitution. This pseudo-scientific method of assessing morality was another strategy used to deny women entry. (Source: Judy Yung, Unbound Feet, 1995).
             3. **Requirement for Male Sponsorship:** Another strategy was the requirement that Chinese women had male sponsors, typically a husband or close male relative, who could vouch for their character and intentions. Without a male sponsor, women were often assumed to be entering the U.S. for illicit purposes, which made it nearly impossible for single or independent women to gain entry. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
