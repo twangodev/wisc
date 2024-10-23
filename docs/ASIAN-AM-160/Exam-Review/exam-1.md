@@ -111,7 +111,7 @@ is worth 15 points for a total of 60 points.
 
         2. **How Did They Circulate Their Ideas and Gain Support?**
 
-            The Ghadar Party circulated its ideas through a newspaper called Ghadar, which was published in multiple languages, including English, Hindi, and Punjabi. The newspaper was distributed to Indian communities worldwide, spreading nationalist ideas and calls for revolution. The Ghadar Party also held public meetings, organized rallies, and worked with other anti-colonial activists to gain support for their cause. By connecting Indian immigrants in the U.S. with a larger global movement for independence, they were able to galvanize support for Indian freedom. (Source: Geetika Rudra, Here to Stay: Uncovering South Asian American History, 2022).
+            The Ghadar Party circulated its ideas through a newspaper called Ghadar, which was published in multiple languages, including English, Hindi, and Punjabi. The newspaper was distributed to Indian communities worldwide, spreading nationalist ideas and calls for revolution. The Ghadar Party also held public meetings, organized rallies, and worked with other anti-colonial activists to gain support for their cause. Party members frequently traveled to meet Indian farmers and laborers in rural areas, helping them understand the movement and rallying them to the cause. By connecting Indian immigrants in the U.S. with a larger global movement for independence, they were able to galvanize support for Indian freedom. (Source: Geetika Rudra, Here to Stay: Uncovering South Asian American History, 2022).
 
         3. **How Did These Activities Impact South Asian Immigration to the U.S.?**
 
