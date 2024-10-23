@@ -36,7 +36,7 @@ is worth 15 points for a total of 60 points.
 
 1. Discuss and detail two different ways in which Chinese women broke free from working as prostitutes and mui tsai. [5 points each way, 10 points total] Explain two advantages that Chinese wives had in America over Chinese wives in China. [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Two Ways Chinese Women Broke Free from Prostitution and Mui Tsai**
             1. **Support from Protestant Missionaries:** Many Chinese women were able to break free from lives of prostitution and mui tsai (domestic servitude) with the help of Protestant missionaries. These missionaries often ran shelters and provided a safe haven for women escaping exploitation. They also offered education and vocational training, which allowed women to develop skills and gain independence. By providing both spiritual and material support, the missionaries empowered these women to leave their oppressive conditions and start new lives. (Source: Judy Yung, Unbound Feet, 1995).
@@ -47,7 +47,7 @@ is worth 15 points for a total of 60 points.
 
 2. Following the passage of the Page Act, what were three specific strategies that immigration officials developed to screen Chinese women for admittance to the United States? [5 points each strategy, 15 points total]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Three Strategies Immigration Officials Developed to Screen Chinese Women Following the Passage of the Page Act**
             1. **Interrogation of Marital Status and Occupation:** Immigration officials rigorously interrogated Chinese women about their marital status and occupations in an attempt to determine whether they were entering the United States for immoral purposes, particularly prostitution. Women had to provide extensive documentation or testimony to prove that they were either married or coming for legitimate reasons, such as joining their husbands. This strategy was meant to weed out women suspected of being prostitutes. (Source: Eithne Luibheid, Entry Denied, 2002).
@@ -56,7 +56,7 @@ is worth 15 points for a total of 60 points.
 
 3. Draw on two historical examples to explain why it was so difficult for workers to organize across racial and ethnic lines. [5 points each example, 10 points total] Draw on one historical example to show how some workers organized along class lines to fight for better pay and working conditions. [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Two Historical Examples Explaining Why It Was Difficult for Workers to Organize Across Racial and Ethnic Lines**
             1. **Racial Hostility Toward Chinese Laborers:** In the late 19th century, Chinese workers were often viewed as competition by white laborers, who believed that Chinese immigrants were taking jobs at lower wages. This economic competition fostered racial hostility, making it difficult to form a united labor front. For example, Denis Kearney, a prominent labor leader, called for the exclusion of Chinese workers, blaming them for the economic woes of white laborers. His anti-Chinese rhetoric reflected a deep racial divide that prevented solidarity across racial lines (Denis Kearney, “Our Misery and Despair,” Indianapolis Times, 1878).
@@ -66,7 +66,7 @@ is worth 15 points for a total of 60 points.
 
 4. What two key strategies did Japanese immigrants employ to gain a foothold in the agricultural industry?[5 points each strategy, 10 points total] What series of laws did the California state legislature pass to undercut the gains that Japanese Americans made in the agricultural industry? [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Two Key Strategies Japanese Immigrants Employed to Gain a Foothold in the Agricultural Industry**
             1. **Tenant Farming and Sharecropping:** One of the key strategies Japanese immigrants employed to gain a foothold in the agricultural industry was entering into tenant farming and sharecropping arrangements. They leased land from white landowners who were struggling to farm their own land and used their skills in intensive farming to make these arrangements profitable. By working diligently, Japanese immigrants were able to generate substantial yields from relatively small plots of land, making their agricultural ventures successful. This lead the Japanese closer to the goal of owning land. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
@@ -78,7 +78,7 @@ is worth 15 points for a total of 60 points.
 
 5. Discuss and detail three ways in which the 1907-8 Gentlemen’s Agreement differed from Chinese exclusion. [5 points each way, 15 points total]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Three Ways the 1907-8 Gentlemen’s Agreement Differed from Chinese Exclusion**
             1. **Diplomatic Agreement vs. Formal Legislation:** The 1907-8 Gentlemen's Agreement between the United States and Japan was a diplomatic negotiation rather than a formal exclusionary law passed by Congress, like the 1882 Chinese Exclusion Act. The Japanese government agreed to voluntarily limit the emigration of Japanese laborers to the U.S., while the U.S. agreed to stop segregating Japanese children in public schools. In contrast, the Chinese Exclusion Act was a unilateral decision by the U.S. government to restrict all Chinese laborers from entering the country. (Source: Ronald Takaki, Strangers From a Different Shore, 1990).
@@ -87,7 +87,7 @@ is worth 15 points for a total of 60 points.
 
 6. Why did Punjabi men tend to marry Mexican women over white and Black women? [5 points] How did marriage to a Mexican woman lead to more marriages between Punjabi men and Mexican women? [5 points] What was significant about these interracial marriages? [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Why Did Punjabi Men Tend to Marry Mexican Women Over White and Black Women?**
 
@@ -103,7 +103,7 @@ is worth 15 points for a total of 60 points.
 
 7. Many Indian intellectuals and students who immigrated to the United States were politically active. What were they fighting for and what political party did they establish? [5 points] How did they go about circulating their ideas and gain support for their political cause? [5 points] How did these activities ultimately impact South Asian immigration to the United States? [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **What Were Indian Intellectuals and Students Fighting For, and What Political Party Did They Establish?**
 
@@ -119,7 +119,7 @@ is worth 15 points for a total of 60 points.
 
 8. Why did U.S. agricultural businesses begin recruiting Filipinos to work on their farms? [5 points] What was the basis for stereotyping Filipino men as “oversexed” and what purpose did this racial caricature serve? [5 points] How did the United States go about excluding Filipino immigration? [5 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Why Did U.S. Agricultural Businesses Begin Recruiting Filipinos to Work on Their Farms?**
 
@@ -135,7 +135,7 @@ is worth 15 points for a total of 60 points.
 
 9. Not including the 1882 Chinese Exclusion Act, discuss and detail three immigration policies that contributed to the construction of Asian Americans as “undesirable aliens.” [5 points each policy, 15 points total]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **The 1917 Immigration Act (Asiatic Barred Zone Act)**
            The Immigration Act of 1917, also known as the Asiatic Barred Zone Act, was a key policy that constructed Asians as “undesirable aliens.” This law created an extensive barred zone that included much of Asia, prohibiting immigration from these regions. The act explicitly targeted Asian immigrants, particularly South Asians and Southeast Asians, who were deemed racially unfit to enter the United States. By establishing a broad exclusion based on geographic origin, the law institutionalized the racialization of Asians as undesirable. (Source: Mae Ngai, Impossible Subjects, 2004).
@@ -153,7 +153,7 @@ is worth 15 points for a total of 60 points.
 
     What is the Chinese Equal Rights League? [6 points] What three reasons did the Chinese Equal Rights League provide in their argument against the renewal of the Chinese Exclusion Act, which in 1892 had included new measures to restrict the rights of Chinese already in the United States? What was significant about each of the three reasons? [8 points each reason + significance, 24 points total]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **What is the Chinese Equal Rights League?**
 
@@ -182,7 +182,7 @@ is worth 15 points for a total of 60 points.
 
     In this pamphlet, editor Ram Chandra recounted four major reasons that exclusionists used to justify their call for the banning of Hindus from the United States. What were these four reasons and how does Chandra argue against them? [5 points each reason, 20 points total] According to Chandra, what was the real reason behind the exclusion of Hindus from the United States? Please explain the significance of this reason. [10 points]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **Four Reasons Exclusionists Used to Justify Banning Hindus from the United States and Ram Chandra's Arguments Against Them**
             1. **Undesirability of Hindu Immigrants**
@@ -209,7 +209,7 @@ is worth 15 points for a total of 60 points.
 
     According to President William McKinley’s proclamation, what is the policy of "Benevolent Assimilation"? Please draw from the text to support your answer. [10 points] Why do you think it is important for the United States to frame its colonial takeover of the Philippines as “Benevolent Assimilation”? [10 points]From your close reading of the text, discuss and detail two contradictory statements embedded in this proclamation. [5 points each contradiction, 10 points total]
 
-    ??? abstract "Key Ideas"
+    ??? success "Key Ideas"
 
         1. **What is the policy of "Benevolent Assimilation"?**
 
